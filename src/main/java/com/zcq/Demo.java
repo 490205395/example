@@ -5,6 +5,6 @@ package com.zcq;
  */
 public class Demo {
    public void sayHello(){
-   
+       int i=0;
    }
 }
