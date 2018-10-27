@@ -7,5 +7,6 @@ public class Demo {
    public void sayHello(){
        int i=0;
        System.out.println("aaaaaaaaaaaaaa");
+       System.out.println("222");
    }
 }
